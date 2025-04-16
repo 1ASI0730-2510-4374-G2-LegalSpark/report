@@ -195,6 +195,55 @@ Abril 2025
 
 #### 2.2.1. Diseño de entrevistas
 
+**Preguntas dirigidas a Emprendedores individuales:**
+
+- Saludo y explicación de LegalSpark destacando sus funciones.
+
+  Preguntas generales:
+
+1. ¿Podría decirnos su nombre y su edad?
+2. ¿Podría decirnos cuál es el tipo de negocio que desea emprender?
+3. ¿Qué lo motivó a iniciar su propio negocio?
+
+4. ¿Ha tenido que realizar algún trámite o asunto legal hasta el momento? Si es así, ¿cuáles son los principales obstáculos y dificultades que ha enfrentado?
+5. ¿Ha buscado asesoría legal profesional? ¿Por qué motivo?
+6. ¿Ha buscado plantillas o recursos digitales para resolver dudas legales por su cuenta?
+7. ¿Ha utilizado herramientas o plataformas digitales para temas legales? Si es así, ¿cuáles y cómo fue su experiencia?
+8. ¿Considera que los servicios legales tradicionales son accesibles?
+9. ¿Qué tipo de documentos legales ha necesitado o espera necesitar para su negocio? (contratos, acuerdos de confidencialidad, permisos, etc.)
+10. ¿Preferiría resolver temas legales por su cuenta con guías claras o hablar directamente con un profesional?
+11. ¿Qué tan dispuesto estaría a pagar por una plataforma de asistencia legal que le brinde guía y asistencia?
+12. ¿Qué características de LegalSpark considera valiosas para su emprendimiento? Explique el porqué.
+13. ¿Qué otras herramientas o servicios le gustaría encontrar en LegalSpark?
+
+- Despedida
+
+---
+
+**Preguntas dirigidas a Fundadores de startups o pequeñas empresas:**
+
+- Saludo y explicación de LegalSpark y sus funciones.
+
+  Preguntas generales:
+
+1. ¿Podría decirnos su nombre y su edad?
+2. ¿Podría decirnos cuál es el sector o rubro de su empresa, y cuántos años tiene operando?
+3. ¿Qué lo motivó a iniciar su propio negocio?
+
+4. ¿Cuáles han sido los principales desafíos legales que ha enfrentado durante la fundación de su negocio?
+5. ¿Qué tipo de necesidades legales ha tenido su empresa recientemente?
+6. ¿Qué procesos legales suelen consumir más tiempo y recursos en su negocio?
+7. ¿Cuenta actualmente con asesoría legal?
+8. ¿Ha usado herramientas digitales para temas legales?
+9. ¿Considera que los servicios legales tradicionales son accesibles?
+10. ¿Debe realizar tareas legales con mucha frecuencia dentro de su empresa? Si es así, ¿le gustaría tener la posibilidad de automatizarlos?
+11. ¿Qué tipo de contratos utiliza con mayor frecuencia? (empleados, socios, clientes, proveedores, etc).
+12. ¿Qué características de LegalSpark considera valiosas para su negocio? Explique el porqué.
+13. ¿Estaría dispuesto a pagar por una plataforma virtual de asistencia legal?
+14. ¿Qué otras herramientas o servicios le gustaría encontrar en LegalSpark?
+
+- Despedida
+
 #### 2.2.2. Registro de entrevistas
 
 #### 2.2.3. Análisis de entrevistas
